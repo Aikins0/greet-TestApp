@@ -1,0 +1,15 @@
+D:\C#\phoneBook TUT\bin\Debug\net7.0\phoneBook TUT.exe
+D:\C#\phoneBook TUT\bin\Debug\net7.0\phoneBook TUT.deps.json
+D:\C#\phoneBook TUT\bin\Debug\net7.0\phoneBook TUT.runtimeconfig.json
+D:\C#\phoneBook TUT\bin\Debug\net7.0\phoneBook TUT.dll
+D:\C#\phoneBook TUT\bin\Debug\net7.0\phoneBook TUT.pdb
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.csproj.AssemblyReference.cache
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.AssemblyInfoInputs.cache
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.AssemblyInfo.cs
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.csproj.CoreCompileInputs.cache
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.dll
+D:\C#\phoneBook TUT\obj\Debug\net7.0\refint\phoneBook TUT.dll
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.pdb
+D:\C#\phoneBook TUT\obj\Debug\net7.0\phoneBook TUT.genruntimeconfig.cache
+D:\C#\phoneBook TUT\obj\Debug\net7.0\ref\phoneBook TUT.dll

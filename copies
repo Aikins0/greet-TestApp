@@ -1,0 +1,13 @@
+  // if(currentTimeAlone < 12:00:00) 
+  //      {
+  //        Console.WriteLine($"Good Morning {Name}");
+  //      }
+  //      else if(currentTimeAlone > 11:59:59)
+  //      {
+  //        Console.WriteLine($"Good Afternoon {Name}");
+  //      }
+  //      else(currentTimeAlone > 15:59:59)
+  //      {
+  //        Console.WriteLine($"Good Evening {Name}");
+  //      }
+       //DateTime.Now.AddHours(6);
